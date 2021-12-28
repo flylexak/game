@@ -1,0 +1,11 @@
+C:\Users\a.v.emelyanov\Documents\GitHub\game\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.exe
+C:\Users\a.v.emelyanov\Documents\GitHub\game\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.deps.json
+C:\Users\a.v.emelyanov\Documents\GitHub\game\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.runtimeconfig.json
+C:\Users\a.v.emelyanov\Documents\GitHub\game\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.runtimeconfig.dev.json
+C:\Users\a.v.emelyanov\Documents\GitHub\game\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.dll
+C:\Users\a.v.emelyanov\Documents\GitHub\game\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.pdb
+C:\Users\a.v.emelyanov\Documents\GitHub\game\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.csprojAssemblyReference.cache
+C:\Users\a.v.emelyanov\Documents\GitHub\game\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.AssemblyInfoInputs.cache
+C:\Users\a.v.emelyanov\Documents\GitHub\game\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.AssemblyInfo.cs
+C:\Users\a.v.emelyanov\Documents\GitHub\game\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.dll
+C:\Users\a.v.emelyanov\Documents\GitHub\game\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.pdb

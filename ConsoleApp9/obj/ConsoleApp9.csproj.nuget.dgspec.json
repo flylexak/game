@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s.a.tsyganov\\Documents\\GitHub\\game\\ConsoleApp9\\ConsoleApp9.csproj": {}
+    "C:\\Users\\a.v.emelyanov\\Documents\\GitHub\\game\\ConsoleApp9\\ConsoleApp9.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s.a.tsyganov\\Documents\\GitHub\\game\\ConsoleApp9\\ConsoleApp9.csproj": {
+    "C:\\Users\\a.v.emelyanov\\Documents\\GitHub\\game\\ConsoleApp9\\ConsoleApp9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s.a.tsyganov\\Documents\\GitHub\\game\\ConsoleApp9\\ConsoleApp9.csproj",
+        "projectUniqueName": "C:\\Users\\a.v.emelyanov\\Documents\\GitHub\\game\\ConsoleApp9\\ConsoleApp9.csproj",
         "projectName": "ConsoleApp9",
-        "projectPath": "C:\\Users\\s.a.tsyganov\\Documents\\GitHub\\game\\ConsoleApp9\\ConsoleApp9.csproj",
-        "packagesPath": "C:\\Users\\s.a.tsyganov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s.a.tsyganov\\Documents\\GitHub\\game\\ConsoleApp9\\obj\\",
+        "projectPath": "C:\\Users\\a.v.emelyanov\\Documents\\GitHub\\game\\ConsoleApp9\\ConsoleApp9.csproj",
+        "packagesPath": "C:\\Users\\a.v.emelyanov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\a.v.emelyanov\\Documents\\GitHub\\game\\ConsoleApp9\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\s.a.tsyganov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\a.v.emelyanov\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

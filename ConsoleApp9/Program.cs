@@ -2,35 +2,46 @@
 
 namespace ConsoleApp9
 {
-    class Program
+  class Program
+  {
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
+      const int CellCount = 4;
+      const int WallCount = CellCount + 1;
+
+      var horWalls = new bool[CellCount, WallCount + 1];
+      var vertWall = new bool[WallCount + 1, CellCount];
+
+      // Заполнение стенами.
+      var rnd = new Random();
+      for (var row = 0; row <= WallCount; row++)
+        for (var col = 0; col < CellCount; col++)
+          horWalls[col, row] = rnd.Next(1, 100) > 50;
+      for (var row = 0; row < CellCount; row++)
+        for (var col = 0; col <= WallCount; col++)
+          vertWall[col, row] = rnd.Next(1, 100) > 50;
+      // Отрисовка.
+
+      for (var row = 0; row <= WallCount; row++)
+      {
+        Console.WriteLine();
+        // Отрисовка горизонтальных стен.
+        for (var col = 0; col < CellCount; col++)
         {
-            int rows;
-            const int cols = 2;
-            Console.WriteLine("Введите количество строк");
-            string inputedSize = Console.ReadLine();
-            rows = int.Parse(inputedSize);
-
-            string[,] namesInfo = new string[rows, cols];
-
-
-            for (int i = 0; i < rows; i++)
-            {
-                Console.WriteLine($"Введите имя №{i + 1}");
-                namesInfo[i, 0] = Console.ReadLine();
-
-                Console.WriteLine($"Введите фамилию №{i + 1}");
-                namesInfo[i, 1] = Console.ReadLine();
-            }
-
-            Console.Clear();
-            Console.WriteLine("Все фамилии и имена");
-            for (int i = 0; i < rows; i++)
-            {
-                Console.WriteLine($"Имя №{i + 1} - {namesInfo[i, 0]} Фамилия №{i + 1} - {namesInfo[i, 1]}");
-            }
-            Console.ReadLine();
+          Console.Write(" ═ ");
         }
+        Console.WriteLine();
+        // Отрисовка вертикальных стен.
+        if (row > CellCount)
+          continue;
+
+        for (var col = 0; col <= WallCount; col++)
+        {
+          Console.Write("║ ");
+        }
+      }
+
+      Console.ReadLine();
     }
+  }
 }
