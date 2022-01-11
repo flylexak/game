@@ -1,0 +1,15 @@
+C:\Users\a.v.emelyanov\source\repos\heidy\heidy\bin\Debug\netcoreapp3.1\heidy.exe
+C:\Users\a.v.emelyanov\source\repos\heidy\heidy\obj\Debug\netcoreapp3.1\heidy.csprojAssemblyReference.cache
+C:\Users\a.v.emelyanov\source\repos\heidy\heidy\obj\Debug\netcoreapp3.1\heidy.AssemblyInfoInputs.cache
+C:\Users\a.v.emelyanov\source\repos\heidy\heidy\obj\Debug\netcoreapp3.1\heidy.AssemblyInfo.cs
+C:\Users\a.v.emelyanov\source\repos\heidy\heidy\bin\Debug\netcoreapp3.1\heidy.deps.json
+C:\Users\a.v.emelyanov\source\repos\heidy\heidy\bin\Debug\netcoreapp3.1\heidy.runtimeconfig.json
+C:\Users\a.v.emelyanov\source\repos\heidy\heidy\bin\Debug\netcoreapp3.1\heidy.runtimeconfig.dev.json
+C:\Users\a.v.emelyanov\source\repos\heidy\heidy\bin\Debug\netcoreapp3.1\heidy.dll
+C:\Users\a.v.emelyanov\source\repos\heidy\heidy\bin\Debug\netcoreapp3.1\heidy.pdb
+C:\Users\a.v.emelyanov\source\repos\heidy\heidy\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\a.v.emelyanov\source\repos\heidy\heidy\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\a.v.emelyanov\source\repos\heidy\heidy\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\a.v.emelyanov\source\repos\heidy\heidy\obj\Debug\netcoreapp3.1\heidy.csproj.CopyComplete
+C:\Users\a.v.emelyanov\source\repos\heidy\heidy\obj\Debug\netcoreapp3.1\heidy.dll
+C:\Users\a.v.emelyanov\source\repos\heidy\heidy\obj\Debug\netcoreapp3.1\heidy.pdb
